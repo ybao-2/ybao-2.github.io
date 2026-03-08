@@ -1,2 +1,1 @@
-test website for assignment
-forked from professor
+test website for learning purposes
